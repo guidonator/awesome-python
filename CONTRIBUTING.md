@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+BItte sende eine Email....blalba
+
 ## Guidelines
 
 * Add one link per Pull Request.
